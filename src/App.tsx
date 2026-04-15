@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import InventoryList from './components/InventoryList';
 import InventoryForm from './components/InventoryForm';
-import AIChatPanel from './components/AIChatPanel';
+// import AIChatPanel from './components/AIChatPanel';
 
 type View = 'list' | 'add' | 'edit';
 
